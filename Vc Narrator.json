@@ -1,0 +1,26 @@
+{
+    "manifest": {
+        "author": "qadomy#8683",
+        "name": "Vc Narrator",
+        "version": "1.0.0"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {},
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {
+        "stream_started": "https:\/\/cdn.discordapp.com\/attachments\/901000116356386827\/908822404007084042\/stream_started.mp3",
+        "deafen": "https:\/\/cdn.discordapp.com\/attachments\/901000116356386827\/908822404183236638\/sound_muted.mp3",
+        "stream_user_joined": "https:\/\/cdn.discordapp.com\/attachments\/901000116356386827\/908822404384579634\/stream_join.mp3",
+        "undeafen": "https:\/\/cdn.discordapp.com\/attachments\/901000116356386827\/908822404573327370\/sound_resume.mp3",
+        "mute": "https:\/\/cdn.discordapp.com\/attachments\/901000116356386827\/908822404732694588\/microphone_muted.mp3",
+        "stream_ended": "https:\/\/cdn.discordapp.com\/attachments\/901000116356386827\/908822404934008872\/stream_ended.mp3",
+        "user_leave": "https:\/\/cdn.discordapp.com\/attachments\/901000116356386827\/908822405089206332\/user_left_vc.mp3",
+        "reconnect": "https:\/\/cdn.discordapp.com\/attachments\/901000116356386827\/908822405248585728\/reconnect.mp3",
+        "user_join": "https:\/\/cdn.discordapp.com\/attachments\/901000116356386827\/908822405420560444\/user_join_vc.mp3",
+        "user_moved": "https:\/\/cdn.discordapp.com\/attachments\/901000116356386827\/908822405571559469\/user_moved.mp3",
+        "unmute": "https:\/\/cdn.discordapp.com\/attachments\/901000116356386827\/908822460806365214\/microphone_unmuted.mp3",
+        "stream_user_left": "https:\/\/cdn.discordapp.com\/attachments\/901000116356386827\/908822461037047848\/user_left.mp3"
+    }
+}
