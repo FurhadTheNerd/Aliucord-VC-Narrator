@@ -1,0 +1,27 @@
+{
+  "manifest": {
+    "version": "1.0",
+    "name": "VC narrator",
+    "author": "https://github.com/FurhadTheNerd",
+    "license": "Its all yours :3"
+  },
+  "background": {},
+  "fonts": {},
+  "simple_colors": {},
+  "colors": {},
+  "drawable_tints": {},
+  "raws": {
+    "mute": "https://github.com/FurhadTheNerd/Aliucord-VC-Narrator/raw/main/preview/Male%201/microphone_muted.mp3",
+    "unmute": "https://github.com/FurhadTheNerd/Aliucord-VC-Narrator/raw/main/preview/Male%201/microphone_unmuted.mp3",
+    "deafen": "https://github.com/FurhadTheNerd/Aliucord-VC-Narrator/raw/main/preview/Male%201/sound_muted.mp3",
+    "undeafen": "https://github.com/FurhadTheNerd/Aliucord-VC-Narrator/raw/main/preview/Male%201/sound_resume.mp3",
+    "stream_ended": "https://github.com/FurhadTheNerd/Aliucord-VC-Narrator/raw/main/preview/Male%201/stream_ended.mp3",
+    "stream_user_joined": "https://github.com/FurhadTheNerd/Aliucord-VC-Narrator/raw/main/preview/Male%201/stream_join.mp3",
+    "user_join": "https://github.com/FurhadTheNerd/Aliucord-VC-Narrator/raw/main/preview/Male%201/user_join_vc.mp3",
+    "user_leave": "https://github.com/FurhadTheNerd/Aliucord-VC-Narrator/blob/main/preview/Male%201/user_left_vc.mp3",
+    "stream_started": "https://github.com/FurhadTheNerd/Aliucord-VC-Narrator/raw/main/preview/Male%201/stream_started.mp3",
+    "reconnect": "https://github.com/FurhadTheNerd/Aliucord-VC-Narrator/raw/main/preview/Male%201/reconnect.mp3",
+    "stream_user_left": "https://github.com/FurhadTheNerd/Aliucord-VC-Narrator/blob/main/preview/Male%201/user_left.mp3",
+    "user_moved": "https://github.com/FurhadTheNerd/Aliucord-VC-Narrator/raw/main/preview/Male%201/user_moved.mp3"
+  }
+}
