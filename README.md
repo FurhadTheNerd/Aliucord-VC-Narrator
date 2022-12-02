@@ -1,4 +1,7 @@
-# aliucord-Vc-Narrator
-a theme that replaces discord's vc sounds with Text To Speech message
-
-the project has been archived due to inactivity
+# Aliucord VC Narrator
+We all hate the default discord blings and dings and so on, they sound horrible and you can't tell what's happening exactly.
+AND THAT'S WHY I MADE VC NARRATOR!
+Its a theme that replaces Aliucord's VC sounds to ones that you can actually understand.
+For now we only have one voice, but can suggest me more voices to add "or things to do" in the [issues tab!](https://github.com/FurhadTheNerd/Aliucord-VC-Narrator/issues)
+# Preview
+Male voice Number 1 [we can't embed videos yet, so you'll have to download the preview.](https://github.com/FurhadTheNerd/Aliucord-VC-Narrator/raw/main/preview/Male%201/Male%201.mp4)
